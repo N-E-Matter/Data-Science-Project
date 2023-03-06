@@ -1,5 +1,5 @@
-# Data-Science-Project
-Data Science project work during the Yandex Practicum
+# Data-Science-Project  
+Data Science project work during the Yandex Practicum  
 Project #3
 
 
