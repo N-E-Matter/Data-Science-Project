@@ -1,6 +1,6 @@
 # Data-Science-Project  
 Data Science project work during the Yandex Practicum  
-Project #3
+Project #1
 
 
 Описание проекта:
