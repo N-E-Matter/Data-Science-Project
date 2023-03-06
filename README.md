@@ -1,4 +1,4 @@
-# Data-Science-Project  
+# Exploratory Data Analysis
 Data Science project work during the Yandex Practicum  
 Project #1
 
